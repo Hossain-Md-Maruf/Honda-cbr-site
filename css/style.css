@@ -1,0 +1,77 @@
+.client img
+{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 75px; 
+}
+.filled-star
+{
+    color: goldenrod;
+}
+.empty-star
+{
+    color: lightcyan;
+}
+.regina-miles
+{
+    color:blue;
+}
+.customized-color
+{
+    color: rgb(220, 42, 42);
+}
+.fetured-bike img
+{
+    width: 100%;
+    height: 243px;
+}
+.nav-poster-background
+{
+    background-color: #264653;
+    color: #fff;
+}
+.ask-question img
+{
+    width:100%;
+    height:397.5px;
+}
+.spon-brand img
+{
+    width: 150px;
+    height: 150px;
+}
+.brand-name
+{
+    color: rgb(121, 19, 19);
+}
+.anchor a
+{
+    text-decoration: none;
+    color: white;
+}
+.light
+{
+    color: white;
+}
+.header-bike img
+{
+    width: 100%;
+    height: 447px; 
+}
+.black-white
+{
+    filter: grayscale(100%);
+}
+.exclusive-bike
+{
+    width: 100%;
+    height: 500px;
+}
+.bmw-bike
+{
+    color: steelblue;
+    font-weight: bolder;
+}
